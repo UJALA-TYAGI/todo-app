@@ -7,8 +7,10 @@ Each step is a branch. Go to the step you want to check out.
 <br>
 [Step 3](https://github.com/UJALA-TYAGI/todo-app/commits/create-todo-components): Create the todo-list components.
 <br>
-[Step 4](https://github.com/UJALA-TYAGI/todo-app/commits/Update-entry-point): Update the entry point by updating Index.js.
+[Step 4](https://github.com/UJALA-TYAGI/todo-app/commits/Update-entry-point): Update the entry point by updating ```index.js```.
 <br>
 [Step 5](https://github.com/UJALA-TYAGI/todo-app/commits/Adding-Dark-Mode): Adding Dark Mode Components to the app.
 <br>
 [Step 6](https://github.com/UJALA-TYAGI/todo-app/commits/Adding-image-Components): Adding images and favicons to the app.
+<br>
+[Step 7](https://github.com/UJALA-TYAGI/todo-app/commits/Update-index.html): Updating our ```index.html``` and ```manifest.json``` according to our app.
