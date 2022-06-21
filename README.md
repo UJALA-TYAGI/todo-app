@@ -10,3 +10,5 @@ Each step is a branch. Go to the step you want to check out.
 [Step 4](https://github.com/UJALA-TYAGI/todo-app/commits/Update-entry-point): Update the entry point by updating Index.js.
 <br>
 [Step 5](https://github.com/UJALA-TYAGI/todo-app/commits/Adding-Dark-Mode): Adding Dark Mode Components to the app.
+<br>
+[Step 6](https://github.com/UJALA-TYAGI/todo-app/commits/Adding-image-Components): Adding images and favicons to the app.
