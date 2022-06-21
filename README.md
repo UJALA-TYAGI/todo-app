@@ -6,3 +6,5 @@ Each step is a branch. Go to the step you want to check out.
 [Step 2](https://github.com/UJALA-TYAGI/todo-app/commits/Add-JSX): Add some JSX to the to-do app.
 <br>
 [Step 3](https://github.com/UJALA-TYAGI/todo-app/commits/create-todo-components): Create the todo-list components.
+<br>
+[Step 4](https://github.com/UJALA-TYAGI/todo-app/commits/Update-entry-point): Update the entry point by updating Index.js.
