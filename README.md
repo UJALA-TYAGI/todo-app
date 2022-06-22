@@ -16,3 +16,12 @@ Each step is a branch. Go to the step you want to check out.
 [Step 7](https://github.com/UJALA-TYAGI/todo-app/commits/Update-index.html): Updating our ```index.html``` and ```manifest.json``` according to our app.
 <br>
 [Step 8](https://github.com/UJALA-TYAGI/todo-app/commits/Add-styling): Adding styling to the app by updating ```index.css```
+
+
+<br>
+Follow these steps to run the app:
+<br>
+<br>
+Step 1: npm install
+<br>
+Step 2: npm start
