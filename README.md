@@ -14,3 +14,5 @@ Each step is a branch. Go to the step you want to check out.
 [Step 6](https://github.com/UJALA-TYAGI/todo-app/commits/Adding-image-Components): Adding images and favicons to the app.
 <br>
 [Step 7](https://github.com/UJALA-TYAGI/todo-app/commits/Update-index.html): Updating our ```index.html``` and ```manifest.json``` according to our app.
+<br>
+[Step 8](https://github.com/UJALA-TYAGI/todo-app/commits/Add-styling): Adding styling to the app by updating ```index.css```
