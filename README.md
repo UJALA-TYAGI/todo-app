@@ -1,5 +1,9 @@
 # todo-app
-Each step is a branch. Go to the step you want to check out.
+
+Deployed on Netlify : [Link to the project](https://62baad3c8d76493c81fa2e48--zippy-bienenstitch-5671dd.netlify.app/)
+
+
+## Each step is a branch. Go to the step you want to check out.
 
 [Step 1](https://github.com/UJALA-TYAGI/todo-app/commits/create-react-app): Setup app using ```create-react-app``` 
 <br>
@@ -17,11 +21,9 @@ Each step is a branch. Go to the step you want to check out.
 <br>
 [Step 8](https://github.com/UJALA-TYAGI/todo-app/commits/Add-styling): Adding styling to the app by updating ```index.css```
 
+<br>
 
-<br>
-Follow these steps to run the app:
-<br>
-<br>
+## Follow these steps to run the app:
 Step 1: npm install
 <br>
 Step 2: npm start
